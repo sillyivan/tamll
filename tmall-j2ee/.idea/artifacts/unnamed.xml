@@ -1,0 +1,71 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="unnamed">
+    <output-path>$PROJECT_DIR$/out/artifacts/unnamed</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="tmall" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="module" name="commons-fileupload-1.2.2.jar" module-name="tmall" />
+          <element id="library" level="module" name="commons-io-1.4.jar" module-name="tmall" />
+          <element id="library" level="module" name="commons-lang-2.5.jar" module-name="tmall" />
+          <element id="library" level="module" name="jstl.jar" module-name="tmall" />
+          <element id="library" level="module" name="mysql-connector-java-5.0.8-bin.jar" module-name="tmall" />
+          <element id="library" level="module" name="servlet-api.jar" module-name="tmall" />
+          <element id="library" level="module" name="spring-core-3.2.0.M1.jar" module-name="tmall" />
+          <element id="library" level="module" name="spring-web-3.2.0.M1.jar" module-name="tmall" />
+          <element id="library" level="module" name="standard.jar" module-name="tmall" />
+        </element>
+        <element id="file-copy" path="$PROJECT_DIR$/web/orderConfirmed.jsp" />
+        <element id="file-copy" path="$PROJECT_DIR$/web/searchResult.jsp" />
+        <element id="file-copy" path="$PROJECT_DIR$/web/bought.jsp" />
+        <element id="file-copy" path="$PROJECT_DIR$/web/payed.jsp" />
+        <element id="file-copy" path="$PROJECT_DIR$/web/home.jsp" />
+        <element id="file-copy" path="$PROJECT_DIR$/web/confirmPay.jsp" />
+        <element id="file-copy" path="$PROJECT_DIR$/web/alipay.jsp" />
+        <element id="file-copy" path="$PROJECT_DIR$/web/category.jsp" />
+        <element id="file-copy" path="$PROJECT_DIR$/web/login.jsp" />
+        <element id="file-copy" path="$PROJECT_DIR$/web/registerSuccess.jsp" />
+        <element id="file-copy" path="$PROJECT_DIR$/web/register.jsp" />
+        <element id="file-copy" path="$PROJECT_DIR$/web/index.jsp" />
+        <element id="file-copy" path="$PROJECT_DIR$/web/cart.jsp" />
+        <element id="file-copy" path="$PROJECT_DIR$/web/review.jsp" />
+        <element id="file-copy" path="$PROJECT_DIR$/web/product.jsp" />
+        <element id="file-copy" path="$PROJECT_DIR$/web/buy.jsp" />
+        <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/web.xml" />
+      </element>
+      <element id="directory" name="admin">
+        <element id="dir-copy" path="$PROJECT_DIR$/web/admin" />
+      </element>
+      <element id="directory" name="css">
+        <element id="dir-copy" path="$PROJECT_DIR$/web/css" />
+      </element>
+      <element id="directory" name="img">
+        <element id="dir-copy" path="$PROJECT_DIR$/web/img" />
+      </element>
+      <element id="directory" name="include">
+        <element id="dir-copy" path="$PROJECT_DIR$/web/include" />
+      </element>
+      <element id="directory" name="js">
+        <element id="dir-copy" path="$PROJECT_DIR$/web/js" />
+      </element>
+      <element id="file-copy" path="$PROJECT_DIR$/web/alipay.jsp" />
+      <element id="file-copy" path="$PROJECT_DIR$/web/bought.jsp" />
+      <element id="file-copy" path="$PROJECT_DIR$/web/buy.jsp" />
+      <element id="file-copy" path="$PROJECT_DIR$/web/cart.jsp" />
+      <element id="file-copy" path="$PROJECT_DIR$/web/category.jsp" />
+      <element id="file-copy" path="$PROJECT_DIR$/web/confirmPay.jsp" />
+      <element id="file-copy" path="$PROJECT_DIR$/web/home.jsp" />
+      <element id="file-copy" path="$PROJECT_DIR$/web/index.jsp" />
+      <element id="file-copy" path="$PROJECT_DIR$/web/login.jsp" />
+      <element id="file-copy" path="$PROJECT_DIR$/web/orderConfirmed.jsp" />
+      <element id="file-copy" path="$PROJECT_DIR$/web/payed.jsp" />
+      <element id="file-copy" path="$PROJECT_DIR$/web/product.jsp" />
+      <element id="file-copy" path="$PROJECT_DIR$/web/register.jsp" />
+      <element id="file-copy" path="$PROJECT_DIR$/web/registerSuccess.jsp" />
+      <element id="file-copy" path="$PROJECT_DIR$/web/review.jsp" />
+      <element id="file-copy" path="$PROJECT_DIR$/web/searchResult.jsp" />
+    </root>
+  </artifact>
+</component>
